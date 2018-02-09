@@ -16,11 +16,6 @@ iframe{
   display: block;
 }
 
-.mup-getwdgt{
-  display: none;
-  background: red;
-}
-
 footer{
   position: absolute;
   bottom: 0;
@@ -29,6 +24,7 @@ footer{
   background: black;
   color: gray;
   padding: 10px;
+  text-align: center;
 
 }
 
