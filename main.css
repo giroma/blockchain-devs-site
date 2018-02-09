@@ -1,5 +1,6 @@
 body{
   background-color: white;
+  background-image: url(https://blog.equinix.com/wp-content/uploads/2017/10/blockchain.jpg);
 }
 
 .dropdown:hover .dropdown-menu {
